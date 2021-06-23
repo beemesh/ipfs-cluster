@@ -44,7 +44,7 @@ require (
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-consensus v0.0.1
 	github.com/libp2p/go-libp2p-core v0.8.5
-	github.com/libp2p/go-libp2p-gorpc v0.1.2
+	github.com/libp2p/go-libp2p-gorpc v0.1.3
 	github.com/libp2p/go-libp2p-gostream v0.3.1
 	github.com/libp2p/go-libp2p-http v0.1.7
 	github.com/libp2p/go-libp2p-kad-dht v0.11.1
