@@ -18,7 +18,7 @@ require (
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-cid v0.0.7
 	github.com/ipfs/go-datastore v0.4.5
-	github.com/ipfs/go-ds-badger v0.2.6
+	github.com/ipfs/go-ds-badger v0.2.7
 	github.com/ipfs/go-ds-crdt v0.1.19
 	github.com/ipfs/go-fs-lock v0.0.6
 	github.com/ipfs/go-ipfs-api v0.2.0
@@ -30,7 +30,7 @@ require (
 	github.com/ipfs/go-ipfs-posinfo v0.0.1
 	github.com/ipfs/go-ipld-cbor v0.0.5
 	github.com/ipfs/go-ipld-format v0.2.0
-	github.com/ipfs/go-ipns v0.0.2
+	github.com/ipfs/go-ipns v0.1.2
 	github.com/ipfs/go-log/v2 v2.1.3
 	github.com/ipfs/go-merkledag v0.3.2
 	github.com/ipfs/go-mfs v0.1.2
@@ -43,22 +43,21 @@ require (
 	github.com/libp2p/go-libp2p-circuit v0.4.0
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-consensus v0.0.1
-	github.com/libp2p/go-libp2p-core v0.8.5
+	github.com/libp2p/go-libp2p-core v0.8.6
 	github.com/libp2p/go-libp2p-gorpc v0.1.2
 	github.com/libp2p/go-libp2p-gostream v0.3.1
 	github.com/libp2p/go-libp2p-http v0.1.7
 	github.com/libp2p/go-libp2p-kad-dht v0.11.1
 	github.com/libp2p/go-libp2p-noise v0.1.3
-	github.com/libp2p/go-libp2p-peerstore v0.2.6
+	github.com/libp2p/go-libp2p-peerstore v0.2.8
 	github.com/libp2p/go-libp2p-pubsub v0.4.1
 	github.com/libp2p/go-libp2p-quic-transport v0.10.0
 	github.com/libp2p/go-libp2p-raft v0.1.7
 	github.com/libp2p/go-libp2p-record v0.1.3
 	github.com/libp2p/go-libp2p-tls v0.1.3
 	github.com/libp2p/go-ws-transport v0.4.0
-	github.com/multiformats/go-multiaddr v0.3.1
+	github.com/multiformats/go-multiaddr v0.3.3
 	github.com/multiformats/go-multiaddr-dns v0.2.0
-	github.com/multiformats/go-multicodec v0.1.6
 	github.com/multiformats/go-multihash v0.0.15
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.10.0
