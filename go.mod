@@ -61,7 +61,7 @@ require (
 	github.com/multiformats/go-multicodec v0.1.6
 	github.com/multiformats/go-multihash v0.0.15
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/rs/cors v1.7.0
 	github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926
 	github.com/ugorji/go/codec v1.2.5
@@ -72,7 +72,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	gonum.org/v1/gonum v0.0.0-20190926113837-94b2bbd8ac13
 	gonum.org/v1/plot v0.0.0-20190615073203-9aa86143727f
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.28.1
 )
 
 go 1.15
